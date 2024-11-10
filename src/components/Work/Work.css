@@ -1,0 +1,29 @@
+.work-container{
+    background-color: rgb(20, 66, 106);
+    box-shadow: -30px 30px 15px rgba(14, 25, 104, 0.275);
+    padding: 2.5rem;
+    border-radius: 20px;
+}
+
+.hobby{
+    background-color: #423d85;
+    border-radius: 20px;
+    font-weight: 600;
+    padding: 3rem;
+    margin: 2rem 0;
+    box-shadow: 30px 30px 15px rgba(14, 25, 104, 0.275);
+
+}
+
+.cover{
+    display: flex;
+    color: rgb(226, 225, 231);
+    gap: 5rem;
+}
+
+.hob{
+    padding-bottom: 1.2rem;
+}
+
+
+

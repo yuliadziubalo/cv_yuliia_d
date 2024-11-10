@@ -1,0 +1,76 @@
+.head{
+    font-size: 1.5rem;
+    font-weight: 500;
+    background-color: #bbc6d6;
+    margin: 6rem 0;
+    color:white;
+    height: 350px;
+    position:relative;
+    border-radius: 2rem;
+}
+
+.head_info{
+    position: absolute;
+    bottom: -3rem;
+    right: 8rem;
+    box-shadow: 30px 30px 15px rgba(14, 25, 104, 0.275);
+    z-index: 1;
+    background-color: #423d85;
+    width: 525px;
+    padding: 3rem;
+    border-radius: 20px;
+}
+
+.ul_contacts{
+    display: flex;
+    gap: 2rem;
+    flex-direction: column;
+    padding-top: 3rem;
+    line-height: 2rem;
+    padding-left: 2rem;
+    font-weight: 600;
+}
+
+.name{
+    text-shadow: 15px 15px 10px rgba(14, 25, 104, 0.275);
+    font-size: 2.5rem;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+#imageonly {
+    width: auto;
+    margin-left: -3rem;
+    scale: 0.9;
+    height: 100%;
+    background: url(../../me2.jpg) no-repeat;
+    background-size: contain;
+}
+
+li a{
+    font-size: 2.5rem;
+    padding-right: 1rem;
+}
+
+.contact:last-child {
+    list-style: none;
+}
+
+.social{
+    transition: 0.3s;
+}
+
+.social:hover {
+    scale: 1.5;
+    transition: 0.3s;
+
+}
+
+.aaa{
+    scale: 1.2;
+    border-radius: 2rem;
+    margin-left: 10rem;
+    height: 100%;
+    box-shadow: -30px 30px 15px rgba(14, 25, 104, 0.275);
+
+}

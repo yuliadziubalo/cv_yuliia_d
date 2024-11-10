@@ -1,0 +1,78 @@
+.main_content {
+    position: relative;
+    margin: 9rem 0;
+    color: #1f0835;
+}
+
+.main_content-container {
+    height: 700px;
+}
+
+.skills {
+    box-shadow: -30px 30px 15px rgba(14, 25, 104, 0.275);
+    background-color: #E4D4BB;
+    z-index: 1;
+    position: absolute;
+    padding: 2.5rem;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
+.header2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    padding-bottom: 2rem;
+}
+
+.study {
+    box-shadow: 30px 30px 15px rgba(14, 25, 104, 0.275);
+    background-color: #D9D9D9;
+    width: 850px;
+    margin-top: 5rem;
+    position: absolute;
+    right: 0;
+    padding: 2.5rem;
+    border-radius: 20px;
+}
+
+ul li {
+    list-style-type: disc;
+    display: list-item;
+}
+
+.skills_ul {
+    columns: 2;
+    padding-bottom: 2rem;
+}
+
+.skill,
+.lang {
+    padding: 0.3rem 0rem;
+    margin-left: 1.5rem;
+}
+
+.languages_ul {}
+
+.studium {
+    padding-bottom: 1.8rem;
+}
+
+.degree {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.place {
+    font-weight: 500;
+    padding: 0.3rem 0 0.8rem 0;
+
+}
+
+.bolder {
+    font-weight: 700;
+}
+
+.info {
+    line-height: 1.5rem;
+}
