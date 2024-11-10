@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cv_yuliia_d/static/css/main.d59eac65.css",
+    "main.js": "/cv_yuliia_d/static/js/main.c878affa.js",
+    "static/media/me2.jpg": "/cv_yuliia_d/static/media/me2.5beec10cc4488136eccb.jpg",
+    "index.html": "/cv_yuliia_d/index.html",
+    "main.d59eac65.css.map": "/cv_yuliia_d/static/css/main.d59eac65.css.map",
+    "main.c878affa.js.map": "/cv_yuliia_d/static/js/main.c878affa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d59eac65.css",
+    "static/js/main.c878affa.js"
+  ]
+}
