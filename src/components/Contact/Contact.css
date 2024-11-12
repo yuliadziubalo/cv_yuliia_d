@@ -1,0 +1,65 @@
+.contact-me{
+    background: #bbc6d6;
+    border-radius: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-me h2 {
+    color: rgb(226, 225, 231);
+}
+
+.contact-form{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    font-size: 1.2rem;
+    background-color: #423d85;
+    scale: 1.2;
+    border-radius: 1rem;
+    padding: 2rem 3rem;
+    box-shadow: -30px 30px 15px rgba(14, 25, 104, 0.275);
+
+}
+
+.input-line{
+    height: 2.5rem;
+    width: 18rem;
+    border-radius: 0.5rem;
+    padding: 0.3rem;
+    border: #423d85 2px solid;
+}
+
+.message{
+    resize: none;
+    width: 18rem;
+    height: 7rem;
+}
+
+.contact-btn{
+    text-align: center;
+    background-color: #ffa008;
+    color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    width: 10rem;
+    margin-top: 1rem;
+    transition: all 0.2s;
+}
+
+.contact-btn:hover{
+    background-color: #df8900;
+    transition: all 0.2s;
+    scale: 1.1;
+}
+.contact-btn:active{
+    scale: 0.8;
+}
+
+
+.contact-container{
+    margin-top: 10rem;
+}

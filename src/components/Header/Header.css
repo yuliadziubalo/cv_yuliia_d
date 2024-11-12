@@ -1,0 +1,80 @@
+.head{
+    font-size: 1.5rem;
+    font-weight: 500;
+    background-color: #bbc6d6;
+    margin: 8rem 0;
+    color:white;
+    height: 350px;
+    position:relative;
+    border-radius: 2rem;
+}
+
+.head_info{
+    position: absolute;
+    bottom: -3rem;
+    right: 8rem;
+    box-shadow: 30px 30px 15px rgba(14, 25, 104, 0.275);
+    z-index: 1;
+    background-color: #423d85;
+    border-radius: 20px;
+    padding: 1rem 4rem;
+}
+
+.ul_contacts{
+    display: flex;
+    flex-direction: column;
+    line-height: 2rem;
+    font-weight: 600;
+}
+
+.name{
+    text-shadow: 15px 15px 10px rgba(14, 25, 104, 0.275);
+    font-size: 2.2rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    padding: 1.2rem 0;
+}
+
+#imageonly {
+    width: auto;
+    margin-left: -3rem;
+    scale: 0.9;
+    height: 100%;
+    background: url(../../me2.jpg) no-repeat;
+    background-size: contain;
+}
+
+li a{
+    font-size: 2.5rem;
+    padding: 0 1rem 0 0;
+}
+
+.contact {
+    list-style: none;
+    padding-bottom: 1.2rem;
+}
+
+.social{
+    transition: 0.3s;
+}
+
+.social:hover {
+    scale: 1.5;
+    transition: 0.3s;
+}
+
+.aaa{
+    scale: 1.2;
+    border-radius: 2rem;
+    margin-left: 10rem;
+    height: 100%;
+    box-shadow: -30px 30px 15px rgba(14, 25, 104, 0.275);
+}
+
+.contact_head{
+    list-style: none;
+    color: rgb(207, 195, 226);
+    padding-bottom: 0.1rem;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+}
