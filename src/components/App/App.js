@@ -4,6 +4,7 @@ import Header from '../Header/Header';
 import Main from '../Main/Main';
 import Work from '../Work/Work';
 import Footer from '../Footer/Footer';
+import Contact from '../Contact/Contact';
 
 import '../../reset.css'
 import './App.css'
@@ -18,6 +19,8 @@ function App() {
     <Main/>
 
     <Work/>
+
+    <Contact/>
 
     <Footer/>
     </>

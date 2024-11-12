@@ -6,7 +6,7 @@ function Work() {
   return (
     <div className='content cover'>
       <div className='work-container'>
-          <h2 className='header2'>Work</h2>
+          <h2 className='header2'>Experience</h2>
           <div className="studium">
             <div className='degree'>Tutor | July 2019 - June 2023 </div>
             <div className="place">Self-employed, Ukraine</div>
