@@ -12,7 +12,7 @@ function Contact() {
             <textarea name="text-contact" className="input-line message" placeholder='Message'></textarea>
             <button className="contact-btn" type="submit">Send</button>
             <input type="hidden" name="_captcha" value="false"></input>
-            <input type="hidden" name="_next" value="http://localhost:3000/cv_yuliia_d"></input>
+            <input type="hidden" name="_next" value="https://yuliadziubalo.github.io/cv_yuliia_d/"></input>
         </form>
         </div>
     </div>
