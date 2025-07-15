@@ -21,7 +21,7 @@ function Main() {
             <h2 className='header2'>Languages</h2>
             <ul className="languages_ul">
                 <li className="lang">Ukrainian - Native</li>
-                <li className="lang">German - B1</li>
+                <li className="lang">German - B2</li>
                 <li className="lang">English - B1</li>
             </ul>
 
